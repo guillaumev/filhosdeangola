@@ -2,16 +2,18 @@
 layout: post
 title:  "39 ans de GCFA"
 date:   2023-02-21 01:05:10 +0100
+background: '/assets/img/galerie3.jpg'
 ---
 
 # Programme
 
-Vendredi 17 mars (adultes seulement): 19h-22h capoeira cours et roda
+Vendredi 17 mars (adultes seulement):
+ - 19h-22h capoeira cours et roda
 
 Samedi 18 mars
-- 10h - 12h: capoeira adultes=20
-- 12h - 13h: musique adultes=20
-- 13h - 14h : pause midi=20
+- 10h - 12h: capoeira adultes
+- 12h - 13h: musique adultes
+- 13h - 14h : pause midi
 - 14h - 15h: danse afro-brésilienne adultes et enfants
 - 15h - 16h: capoeira adultes et enfants (2 cours)
 - 16h - 17h: samba de roda adultes et enfants
