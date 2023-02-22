@@ -2,7 +2,8 @@
 layout: post
 title:  "39 ans de GCFA"
 date:   2023-02-21 01:05:10 +0100
-background: '/assets/img/galerie3.jpg'
+background: '/assets/img/39ans.jpeg'
+subtitle: '17-19 Mars 2023 - Cervens - Haute-Savoie'
 ---
 
 # Programme
@@ -24,6 +25,10 @@ Dimanche 19 mars (adultes seulement):
 - 11h - 13h: capoeira cours
 - 13h - 14h : pause
 - 14h - 16h : roda
+
+# Localisation
+
+L'événement aura lieu au [Foyer rural de Cervens](https://www.foyer-rural-cervens.fr/), 621 route des Collines, 74550 Cervens
 
 # Inscription
 
