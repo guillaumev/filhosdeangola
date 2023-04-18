@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "39 ans de GCFA"
-date:   2023-02-21 01:05:10 +0100
-background: '/assets/img/39ans.jpeg'
-subtitle: '17-19 Mars 2023 - Cervens - Haute-Savoie'
+title: 39 ans de GCFA
+date: '2023-02-21 01:05:10 +0100'
+background: /assets/img/39ans.jpeg
+subtitle: 17-19 Mars 2023 - Cervens - Haute-Savoie
+published: true
 ---
 
 # Programme
@@ -14,7 +15,7 @@ Vendredi 17 mars (adultes seulement):
 Samedi 18 mars
 - 10h - 12h: capoeira adultes
 - 12h - 13h: musique adultes
-- 13h - 14h : pause midi
+- 13h - 14h : pause midi, merci de ramener votre pique-nique, crêpes également en vente sur place
 - 14h - 15h: danse afro-brésilienne adultes et enfants
 - 15h - 16h: capoeira adultes et enfants (2 cours)
 - 16h - 17h: samba de roda adultes et enfants
@@ -28,7 +29,8 @@ Dimanche 19 mars (adultes seulement):
 
 # Localisation
 
-L'événement aura lieu au [Foyer rural de Cervens](https://www.foyer-rural-cervens.fr/), 621 route des Collines, 74550 Cervens
+L'événement aura lieu à la [Salle polyvalente de Cervens](https://www.foyer-rural-cervens.fr/), 621 route des Collines, 74550 Cervens
+Gare SNCF la plus proche: Perrignier
 
 # Inscription
 
@@ -38,6 +40,7 @@ Avant le 5 mars, envoyer un mail à info@filhosdeangola.fr avec les informations
 - à quel jour(s) vous voulez participer (vendredi, samedi et/ou dimanche)
 - si vous aimeriez participer au repas du soir
 - si vous avez besoin d'hébergement
+- si vous êtes végétarien
 
 # Tarifs
 
@@ -48,5 +51,7 @@ Adultes
 - repas du samedi soir (plat principal + boisson + dessert): 10 €
 
 Enfants
-- 5 € pour les ateliers du samedi
+- 5 € pour l'après-midi du samedi
 - 5 € pour le repas du samedi soir
+
+Paiements en espèces, par chèque ou virement en avance ou sur place le jour même.
